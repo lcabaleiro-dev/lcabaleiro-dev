@@ -11,7 +11,7 @@ Construyo soluciones reales de negocio con **Python, Power BI y APIs**: automati
 - 🔹 Financial Data Pipeline (Multi-Bank Automation):
 Integración automática de datos bancarios (Galicia, ICBC, Credicoop, Mercado Pago) → normalización + reporting financiero con Python y Power BI *(repo en preparación)*
 - 🔹 AI Transaction Classifier:
-Motor de clasificación basado en IA para categorizar transacciones contables y bancarias (ventas, gastos, impuestos).) *(repo en preparación)*
+Motor de clasificación basado en IA para categorizar transacciones contables y bancarias (ventas, gastos, impuestos) *(repo en preparación)*
 - 🔹 E-commerce Data Engine (Dropshipping + AI):
 Sistema automatizado de publicación y análisis de rentabilidad usando datos de proveedores y APIs externas.
 - 🔹 IVA Analytics Dashboard:
@@ -26,5 +26,11 @@ Experiencia práctica en el desarrollo de pipelines de datos y modelos de IA apl
 Integración de múltiples fuentes (bancos, plataformas de pago y ERP) mediante APIs REST y procesos ETL en Python, generando reporting financiero automatizado y análisis de rentabilidad en Power BI.
 Aplicación de machine learning y análisis predictivo para pricing, detección de anomalías y forecast de flujo de caja.
 
+🚀 Mis desarrollos reducen tareas manuales hasta un 80%, mejoran la precisión contable y aceleran la toma de decisiones financieras.
+
+## 🧩 En desarrollo
+- Integración con APIs de cotización y márgenes automáticos.  
+- Extensión del modelo multi-banco con machine learning para predicción de flujo de caja. 
+
 **LinkedIn:** [linkedin.com/in/lcabaleiro-dev](https://linkedin.com/in/lcabaleiro-dev)  
-**Email:** lucascabaleiro10@gmail.com
+📧**Email:** lucascabaleiro10@gmail.com
