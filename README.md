@@ -1,4 +1,7 @@
+🌎 **Available in:** [English version](README_en.md)
+
 # Lucas Cabaleiro — Data & AI Automation Specialist
+
 
 **Tech Entrepreneur | Data & AI Automation | Python • Power BI • SQL**  
 Construyo soluciones reales de negocio con **Python, Power BI y APIs**: automatización contable, dashboards y asistentes con IA.
